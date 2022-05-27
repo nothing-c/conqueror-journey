@@ -59,3 +59,7 @@
 
 ** Skill
    - Power normalization in PvP zones(?)
+
+** Combat
+   - Hits are sent to server and are damage zones based on x/y/z
+   - Nothing really kept client-side, players, locations, and stats are kept in server (unless I can figure out something else)
