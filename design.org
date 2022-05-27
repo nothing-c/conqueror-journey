@@ -1,0 +1,61 @@
+#+TITLE: Currently Unnamed Roblox One Piece Game 
+
+- Working Title: Conqueror's Journey
+
+* Goals
+** Overarching
+   - Like /DeepWoken/
+     - Roguelike, but involving skill (at least in PvP)
+       - I.e, a lvl1 player /could/ beat a lvl100 player
+     - Treasure System 
+       - Each zone will have random events, but based on the theme of the zone
+       - Each zone/enemy drops from a pool of items
+	 - Loot based on Beli and gems (not crazy weapons)
+	 - Devil Fruit drop rate = **low**
+
+** Char Creation
+   - Customization 
+     - Looks (very)
+     - Stats
+       - Speed and Movement (agility)
+	 - Stamina?
+       - Attack power and carrying capacity (strength)
+       - Defense (fortitude) - armament haki
+       - Observation(?) - observation haki
+     - Conqueror's Haki
+       - Born with it (low, gacha-type chances)
+       - Difficult (endgame) questline to get it for the next character you roll
+
+** Combat
+   - Haki
+     - Able to train it
+     - Observation and Armament + their extensions (future sight and reiou)
+   - Basic Combat
+     - Real-time type (you throw a punch, everyone in the range gets hit)
+     - Parry system
+       - As you block attacks, a bar fills; once full, your block breaks and you're stunned
+       - However, by tapping block, it'll decrease the bar and parry
+
+** General
+   - Stamina
+     - Jumping
+   - Cooldowns for powerful abilities
+     - Mana (name in progress) bar for abilities
+
+** Pie-In-The-Sky
+   - Consistent world
+   - If you have a Devil Fruit, you are the only one with that DF until you
+     die
+   - Consistent ranks (4 Kings, etc)
+   - Future Sight
+   - Crew system (player guilds)
+
+** Gameplay Loop
+   - Exploration and Combat
+
+* Implementation
+** Roguelike
+   - 3 lives, if you burn them all, you reroll
+
+** Skill
+   - Power normalization in PvP zones(?)
